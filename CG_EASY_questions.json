@@ -1,0 +1,176 @@
+[
+    {
+        "id": "EASY_01",
+        "question": [
+            {
+                "type": "text",
+                "text": "How many cylinders are there in the following image?"
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q1.png"
+                }
+            }
+        ]
+    },
+    {
+        "id": "EASY_02",
+        "question": [
+            {
+                "type": "text",
+                "text": "How many geometric objects are there in the following image? How many cubes? Spheres? Cylinders?"
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q1.png"
+                }
+            }
+        ]
+    },
+    {
+        "id": "EASY_03",
+        "question": [
+            {
+                "type": "text",
+                "text": "How many green objects are there in the following image?"
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q1.png"
+                }
+            }
+        ]
+    },
+    {
+        "id": "EASY_04",
+        "question": [
+            {
+                "type": "text",
+                "text": "How many black objects are there in the following image?"
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q1.png"
+                }
+            }
+        ]
+    },
+    {
+        "id": "EASY_05",
+        "question": [
+            {
+                "type": "text",
+                "text": "The following diagram shows in gray a mirror and a light ray hitting the mirror at an angle. Which of the colored vectors best represents the direction of the light ray reflected off the mirror?"
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q2.png"
+                }
+            }
+        ]
+    },
+    {
+        "id": "EASY_06",
+        "question": [
+            {
+                "type": "text",
+                "text": "The following diagram shows in gray a transparent surface and a light ray hitting the surface at an angle. Which of the colored vectors best represents the direction of the light ray after hitting the surface?"
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q2.png"
+                }
+            }
+        ]
+    },
+    {
+        "id": "EASY_07",
+        "question": [
+            {
+                "type": "text",
+                "text": "The following two diagrams show several vectors in 3D space from two perspectives. Which of the colored vectors is perpendicular to both of the gray vectors?"
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q3a.png"
+                }
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q3b.png"
+                }
+            }
+        ]
+    },
+    {
+        "id": "EASY_08",
+        "question": [
+            {
+                "type": "text",
+                "text": "The following two diagrams show several vectors in 3D space from two perspectives. Which of the colored vectors is coplanar (lying in the same plane) with both of the gray vectors?"
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q3a.png"
+                }
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q3b.png"
+                }
+            }
+        ]
+    },
+    {
+        "id": "EASY_09",
+        "question": [
+            {
+                "type": "text",
+                "text": "The following two diagrams show a translation in 3D from two perspectives, where the red sphere is before the translation, and the blue sphere is after the translation. Along which axis did the translation take place?"
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q4a.png"
+                }
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q4b.png"
+                }
+            }
+        ]
+    },
+    {
+        "id": "EASY_10",
+        "question": [
+            {
+                "type": "text",
+                "text": "The following two diagrams show a rotation in 3D from two perspectives, where the red sphere is before the rotation, and the blue sphere is after the rotation. Around which axis did the rotation take place?"
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q4a.png"
+                }
+            },
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": "https://raw.githubusercontent.com/TFPlusPlus/GPT-4V-vs.-CG/main/Easy_CG/Q4b.png"
+                }
+            }
+        ]
+    }
+]
